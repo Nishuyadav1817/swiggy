@@ -1,0 +1,13 @@
+# # ignore folders
+# node_modules/
+# dist/
+# .parcel-cache/
+
+# # ignore system files
+# .DS_Store
+# Thumbs.db
+
+# # ignore environment files
+# .env
+# .env.local
+# .parcel-cache/
